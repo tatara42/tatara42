@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tatara42
 - 👀 I’m interested in Games and Web
-- 🌱 I’m currently learning C,C++,C#, JS, HTML, CSS, language
+- 🌱 I’m currently learning C,C++,C#, JS, HTML, CSS
 - 💞️ I’m looking to collaborate on Games and Website
 - 📫 How to reach me minipauldebbarma@gmail.com
 
