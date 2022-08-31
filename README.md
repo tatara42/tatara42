@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tatara42
+- 👋 Hi, I’m @tatara42
 - 👀 I’m interested in Games and Web
 - 🌱 I’m currently learning C,C++,C#, JS, HTML, CSS
 - 💞️ I’m looking to collaborate on Games and Website
