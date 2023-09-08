@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Murasaki Tatara</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **Yuki Discord Bot**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **c#**
 
 - 📫 How to reach me **minipauldebbarma@gmail.com**
 
