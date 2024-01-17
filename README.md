@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **murasakitatara@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
