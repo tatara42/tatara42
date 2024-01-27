@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Murasaki Tatara</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Timed Pose(WPF Gesture Drawing App)**
 
-- 🌱 I’m currently learning **c#**
+- 🌱 I’m currently learning **WPF and Asp.net + React**
 
 - 📫 How to reach me **murasakitatara@gmail.com**
 
