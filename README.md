@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Timed Pose(MAUI Gesture Drawing App)**
 
-- 🌱 I’m currently learning **MAUI**
+- 🌱 I’m currently learning **.net MAUI**
 
 - 📫 How to reach me **murasakitatara@gmail.com**
 
