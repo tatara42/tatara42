@@ -4,10 +4,10 @@
 - 📫 How to reach me: tataramurasaki@gmail.com (I read my email every sunday @6pm)
 
 ## Languages
-zig, html, css, js, typescript, php, lua, c#, c++
+zig, html, css, js, c#
 
 ## Framework
-winform, unity, godot, laravel, lamp, sfml
+winform, unity
 
 ## IDE
 pen and paper
