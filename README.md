@@ -1,4 +1,4 @@
-## I Am Murasaki Tatara
+## I am Murasaki Tatara
 
 - 👯 I’m looking to collaborate on 3D Games
 - 📫 How to reach me: tataramurasaki@gmail.com (I read my email every sunday @6pm)
