@@ -1,10 +1,9 @@
 ## I am Murasaki Tatara
 
 - 👯 I’m looking to collaborate on Games
-- 📫 How to reach me: tataramurasaki@gmail.com (I read my email every sunday @6pm)
-
+- 📫 How to reach me: tataramurasaki@gmail.com
 ## Languages
-zig, html, css, js, c#
+zig, html, css, js, c#, c++
 
 ## Framework
 winform, unity
