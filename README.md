@@ -1,13 +1,8 @@
-## I am Murasaki Tatara
+## Me Murasaki Tatara
 
-- 👯 I’m looking to collaborate on Games
-- 📫 How to reach me: tataramurasaki@gmail.com
-## Languages
-zig, html, css, js, c#, c++
+Tools:
+zig, typescript
 
-## Framework
-winform, unity
-
-## IDE
+Other tools:
 pen and paper
 
