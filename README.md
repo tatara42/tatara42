@@ -1,8 +1,4 @@
 ## Me Murasaki Tatara
 
-Tools:
-zig, typescript
-
-Other tools:
-pen and paper
+Reverse Engineering, Vulkan and Modding
 
